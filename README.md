@@ -1,6 +1,6 @@
 # OCS IITH Room Booking System
 
-A full-stack room booking system for the Office of Career Services at IIT Hyderabad.
+A full stack room booking system for the Office of Career Services at IIT Hyderabad.
 
 ## Tech Stack
 
